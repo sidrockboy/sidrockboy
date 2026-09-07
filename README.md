@@ -11,8 +11,7 @@
 - Python
 - Machine Learning
 - Artificial Intelligence
-- Data Structures & Algorithms
-- Git & GitHub
+- Data Structures & Algorithm
 
 ## 🎯 Goals
 
@@ -22,8 +21,8 @@ and contribute to meaningful open-source projects.
 ## 📫 Connect With Me
 
 - GitHub: [Your GitHub]
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email].
+- LinkedIn: [Siddhant Bhat]
+- Email: [siddhantbhat17@gmail.com].
 - ⚡ Fun fact: ...
 - 
 <!---
